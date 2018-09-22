@@ -1,3 +1,5 @@
 Name: Anthony
 Age: 31
 Favorite Color: Green
+City: Berlin
+Spirit Animal: Cat
